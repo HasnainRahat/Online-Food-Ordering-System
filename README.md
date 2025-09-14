@@ -32,7 +32,6 @@ Unit Testing – Component-level testing by developers
 Integration Testing – Verifying interactions between modules
 System Testing – End-to-end functional validation
 Acceptance Testing – Final validation with real users
-Test Tools – Selenium for automation & Manual testing
 
 🧪 Test Deliverables
 
